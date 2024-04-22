@@ -52,8 +52,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-
-
-
-
-#python3 image_time_letgo.py /home/kth/Desktop/play_bag/S_KRUSN_DATA_SEAD-CM-2200-000_20240311162344.bag /home/kth/Desktop/play_bag/img0 camera_module_0
